@@ -6,7 +6,8 @@ This project is my attempt at creating a weather app utilizing only React, OpenW
 
 ## Screenshot
 
-![]()
+![screenshot](/img/screenshot.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
