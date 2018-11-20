@@ -1,6 +1,7 @@
 ### About this project
 
 View Demo: [React Weather Finder on Netlify](https://react-weatherapi.netlify.com/)
+
 This project is my attempt at creating a weather app utilizing only React, OpenWeather API and Bootstrap for styling. Inspired by [H. Mirza's](https://www.youtube.com/watch?v=204C9yNeOYI) video tutorial. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
